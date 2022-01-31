@@ -12,13 +12,13 @@
 
 # Screenshots Under this heading
 ## Midnight
-![midnight](https://github.com/Serendipity-Theme/bear-blog/blob/main/midnight.png?raw=true)
+![midnight](https://github.com/Serendipity-Theme/bear-blog/blob/main/Midnight.png?raw=true)
 
 ## Sunset
-![midnight](https://github.com/Serendipity-Theme/bear-blog/blob/main/sunset.png?raw=true)
+![midnight](https://github.com/Serendipity-Theme/bear-blog/blob/main/Sunset.png?raw=true)
 
 ## Morning
-![midnight](https://github.com/Serendipity-Theme/bear-blog/blob/main/morning.png?raw=true)
+![midnight](https://github.com/Serendipity-Theme/bear-blog/blob/main/Morning.png?raw=true)
 
 # Who ported the theme?
 Michael Andreuzza
